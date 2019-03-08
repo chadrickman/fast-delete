@@ -1,6 +1,6 @@
 # Fast Delete
 
-Windows isn't great at deleting large files or folders with lots of files inside. That is where fast-delete.bat comes in, it provides a simple bat file that you can run, specify the folder path you wish to delete and it'll do so and close out once its done.
+Windows isn't great at deleting large files or folders with lots of files inside. That is where fast-delete.bat comes in, it's a simple bat file that you can run, specify the folder path you wish to delete and it'll do so and close out once its done.
 
 ****Note:** the files will be deleted permanently and will not be in the recycling bin.
 
